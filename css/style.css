@@ -123,7 +123,7 @@ p {
 }
 
 .header {
-  background: url(../../img/BG-Header.jpg) center/cover no-repeat;
+  background: url(../img/BG-Header.jpg) center/cover no-repeat;
 }
 
 .header__row {
@@ -504,7 +504,7 @@ p {
 }
 
 .contant-c {
-  background: url(../../img/BG-bottom.jpg) center/cover no-repeat;
+  background: url(../img/BG-bottom.jpg) center/cover no-repeat;
   padding-top: calc(75px + 26 * ((100vw - 320px) / 1920 -320));
   padding-bottom: calc(60px + 21 * ((100vw - 320px) / 1920 -320));
 }
@@ -682,14 +682,14 @@ p {
 }
 
 .contant-d__name:after {
-  content: url(../../img/icons/f.png);
+  content: url(../img/icons/f.png);
   position: absolute;
   left: 0;
   bottom: 0;
 }
 
 .contant-d__name:before {
-  content: url(../../img/icons/in.png);
+  content: url(../img/icons/in.png);
   position: absolute;
   left: 40px;
   bottom: 0;
